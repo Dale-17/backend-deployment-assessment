@@ -1,0 +1,6 @@
+aws_region    = "eu-west-1"
+instance_type = "t3.micro"
+my_ip         = "102.254.103.34/32"
+key_name      = "startuptech-key"
+ami_id        = "ami-0556a34f1df4b0d81"
+project_name  = "startuptech"
